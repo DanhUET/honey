@@ -5,12 +5,12 @@ const textConfig = {
     text4: "Nếu em ko trả lời mà thoát ra tức là muốn làm vợ anh ngay rùi đó nha :v",
     text5: "Cậu mơ à???",
     text6: "Em đồng ý 💕💕",
-    text7: "Ngày mà em đồng ý yêu anh :vvvv",
-    text8: "Gửi cho tớ <3",
-    text9: "Vì cậu đẹp try vlllll",
-    text10: "Tớ biết mà ^^ Yêu cậu 300.000",
-    text11: "Tối nay tớ qua đón cậu đi chơi nhaa :v Còn giờ thì chờ gì nữa mà ko inbox cho tớ đi nàooo",
-    text12: "Okii lunn <3",
+    text7: "Khi nào muốn làm vợ anh nào 💕 :vvvv",
+    text8: "Gửi cho anh <3",
+    text9: "Em muốn ngay bây giờ ạ ❤️❤️❤️",
+    text10: "Anh biết mà ^^ Yêu em 300.000",
+    text11: "Tối mai anh qua đón cậu đi chơi nhaa :v Còn giờ thì đừng bấm vào đây không vui đâu",
+    text12: "Thích bấm đó <3",
 };
 
 $(document).ready(function () {
@@ -113,7 +113,7 @@ $(document).ready(function () {
             html: true,
             width: 900,
             padding: "3em",
-            html: "<input type='text' class='form-control' id='txtReason'  placeholder='dd/mm/yy'>",
+            html: "<input type='text' class='form-control' id='txtReason'  placeholder='Trả lời nè'>",
             background: '#fff url("img/iput-bg.jpg")',
             backdrop: `
                     rgba(0,0,123,0.4)
