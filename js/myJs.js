@@ -1,9 +1,9 @@
 const textConfig = {
     text1: "Em yêu ơi!",
-    text2: "Anh có điều này muốn hỏi cậu nhớ phải trả lời thật lòng nhaaaaa.",
+    text2: "Anh có điều này muốn hỏi em nhớ phải trả lời thật lòng nhaaaaa.",
     text3: "Sau này làm vợ anh nhé ._.",
     text4: "Nếu em ko trả lời mà thoát ra tức là muốn làm vợ anh ngay rùi đó nha :v",
-    text5: "Cậu mơ à???",
+    text5: "Anh mơ à???",
     text6: "Em đồng ý 💕💕",
     text7: "Khi nào muốn làm vợ anh nào 💕 :vvvv",
     text8: "Gửi cho anh <3",
